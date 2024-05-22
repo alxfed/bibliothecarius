@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# bibliothecarius
+bibliothecarius - librarian.
 <pre>
-  pip install independent-machine
+  pip install bibliothecarius
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import bibliothecarius
 ```
